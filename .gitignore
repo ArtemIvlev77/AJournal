@@ -1,4 +1,4 @@
-build
 node_modules
-.idea
+build
 .DS_Store
+.idea
