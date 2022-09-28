@@ -1,5 +1,8 @@
 {
   "test": "Test example",
   "translate": "Translate",
-  "Lang": "English"
+  "Lang": "English",
+  "mainPage": "Main Page",
+  "about": "About us",
+  "NotFoundPage": "Page not found"
 }
