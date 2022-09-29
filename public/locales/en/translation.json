@@ -4,5 +4,7 @@
   "Lang": "English",
   "mainPage": "Main Page",
   "about": "About us",
-  "NotFoundPage": "Page not found"
+  "NotFoundPage": "Page not found",
+  "error": "An unexpected error occurred",
+  "refreshPage": "Refresh Page"
 }
